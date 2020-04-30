@@ -4,5 +4,5 @@
 - You should have basic understanding of howto use Docker, Docker Compose and be able to modify VueJS source code.
 
 # How to use
-- Please check [this blog for the instructions]().
+- Please check [this blog for the instructions](https://medium.com/absoroute-io/passing-dynamic-environment-variables-to-vuejs-application-at-run-time-45918162bbaf?sk=1b00248c6867778867a3d5a3c883ef30).
 - Modify "worker.service.ts" to Add/Remove your variables there. There are at Line 17,18 and 33,34.
