@@ -25,7 +25,7 @@
     "@nestjs/core": "^6.7.2",
     "@nestjs/platform-express": "^6.7.2",
     "cheerio": "^1.0.0-rc.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "recursive-copy": "^2.0.10",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.0"
